@@ -1,0 +1,26 @@
+S.No		Test Method Name		Test Description				Input			Expected Output				Actual Output
+
+1.		Prime_number			The test is deigned to check		An integer is given as input. 	The number should be divided by 	The design has divided
+						whether the given number is 		Input number is 11		every integer less than the		the integer by
+						prime number or not							half of the number to give		every number less
+															the ouput as not a prime number		than the number and
+																				given the result
+																				as not a prime number																							
+2.		Prime_number			The test is deigned to check		An integer is given as input. 	The number should be divided by 	The design has divided
+						whether the given number is 		Input number is 9		every integer less than the		the integer by
+						prime number or not							half of the number to give		every number less
+															the ouput as a prime number		than the number and
+																				given the result
+																				as a prime number
+
+3.		Prime_number			The test is deigned to check		An integer is given as input. 	The number should be divided by 	The design has divided
+						whether the given number is 		Input number is 0		every integer less than the		the integer by
+						prime number or not							half of the number to give		every number less
+															the ouput as neither prime nor		than the number and
+															composite.				given the result as 																					neither prime nor 																					composite
+
+
+
+"As a user, I want to check whether the given number is a prime number or not, so that I can identify a prime number."
+
+       
